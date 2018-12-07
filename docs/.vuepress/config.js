@@ -35,6 +35,7 @@ module.exports = {
 
   themeConfig: {
     repo: 'codetrial/docs',
+    editLinks: true,
     locales: {
       '/': {
         label: '简体中文',
