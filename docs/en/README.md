@@ -1,3 +1,5 @@
 # Coding in Action
 
-> This site is under construction.
+::: warning
+This site is under construction.
+:::

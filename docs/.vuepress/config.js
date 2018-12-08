@@ -1,9 +1,23 @@
-function getGotAuthSidebar(groupA) {
+function getGotAuthSidebar(groupA, groupB) {
   return [
     {
       title: groupA,
       collapsable: false,
-      children: ['']
+      children: [
+        '',
+        'api-app',
+        'api-resource',
+        'api-role',
+        'api-group',
+        'api-user',
+        'filter',
+        'graphql'
+      ]
+    },
+    {
+      title: groupB,
+      collapsable: false,
+      children: ['dev', 'deploy']
     }
   ];
 }
@@ -43,13 +57,13 @@ module.exports = {
         editLinkText: '在 GitHub 上编辑此页',
         lastUpdated: '上次更新',
         nav: [
-          { text: '首页', link: '/' },
+          { text: '指南', link: '/guide/' },
           { text: 'GOT Auth', link: '/gotauth/' },
           { text: 'Wishtodo', link: '/wishtodo/' }
         ],
         sidebar: {
-          '/gotauth/': getGotAuthSidebar('指南'),
-          '/wishtodo/': getWishTodoSidebar('指南')
+          '/gotauth/': getGotAuthSidebar('介绍', '实战'),
+          '/wishtodo/': getWishTodoSidebar('介绍')
         }
       },
       '/en/': {
@@ -58,13 +72,13 @@ module.exports = {
         editLinkText: 'Edit this page on GitHub',
         lastUpdated: 'Last Updated',
         nav: [
-          { text: 'Home', link: '/en/' },
+          { text: 'Guide', link: '/en/guide/' },
           { text: 'GOT Auth', link: '/en/gotauth/' },
           { text: 'Wishtodo', link: '/en/wishtodo/' }
         ],
         sidebar: {
-          '/en/gotauth/': getGotAuthSidebar('Guide'),
-          '/en/wishtodo/': getWishTodoSidebar('Guide')
+          '/en/gotauth/': getGotAuthSidebar('Introduction', 'Action'),
+          '/en/wishtodo/': getWishTodoSidebar('Introduction')
         }
       }
     }
@@ -86,6 +100,8 @@ module.exports = {
         updatePopup: true
       }
     ],
+    ['@vuepress/active-header-links', true],
+    ['@vuepress/pagination', true],
     ['@vuepress/medium-zoom', true],
     ['@vuepress/notification', true]
   ]
