@@ -77,8 +77,8 @@ module.exports = {
           { text: 'Wishtodo', link: '/en/wishtodo/' }
         ],
         sidebar: {
-          '/en/gotauth/': getGotAuthSidebar('Introduction', 'Action'),
-          '/en/wishtodo/': getWishTodoSidebar('Introduction')
+          // '/en/gotauth/': getGotAuthSidebar('Introduction', 'Action'),
+          // '/en/wishtodo/': getWishTodoSidebar('Introduction')
         }
       }
     }
