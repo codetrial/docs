@@ -34,6 +34,7 @@ function getWishTodoSidebar(groupA) {
 
 module.exports = {
   contentLoading: true,
+  head: [['link', { rel: 'icon', href: '/logo.png' }]],
   locales: {
     '/': {
       lang: 'zh-CN',
