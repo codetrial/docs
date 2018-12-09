@@ -2,6 +2,8 @@
 
 GOT Auth 是一个为专后台系统打造的从粗力度到细粒度完整鉴权系统。既可以用于后台 URI 鉴权，也可以用于控制前端页面展现。
 
+为什么叫 GOT，喜欢冰火的同学肯定知道。Wiki：[冰与火之歌 —— 权力的游戏（A Song of Ice and Fire - Game of Thrones）](https://en.wikipedia.org/wiki/Game_of_Thrones)
+
 仓库地址：
 
 - Service [codetrial/got-auth-service](https://github.com/codetrial/got-auth-service)
