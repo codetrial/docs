@@ -19,7 +19,7 @@ function getGotAuthSidebar(groupA, groupB) {
       collapsable: false,
       children: ['dev', 'deploy']
     }
-  ];
+  ]
 }
 
 function getWishTodoSidebar(groupA) {
@@ -29,7 +29,7 @@ function getWishTodoSidebar(groupA) {
       collapsable: false,
       children: ['']
     }
-  ];
+  ]
 }
 
 module.exports = {
@@ -59,8 +59,15 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: [
           { text: '指南', link: '/guide/' },
+          { text: 'Yo Antd Pro', link: '/antd-pro/' },
+          { text: 'Element Admin', link: '/element-admin/' },
+          { text: 'Form Builder', link: '/element-form-builder/' },
+          { text: 'Egg Token', link: '/egg-token/' },
           { text: 'GOT Auth', link: '/gotauth/' },
-          { text: 'Wishtodo', link: '/wishtodo/' }
+          {
+            text: '更多',
+            items: [{ text: 'Wishtodo', link: '/wishtodo/' }]
+          }
         ],
         sidebar: {
           '/gotauth/': getGotAuthSidebar('介绍', '实战'),
@@ -74,8 +81,15 @@ module.exports = {
         lastUpdated: 'Last Updated',
         nav: [
           { text: 'Guide', link: '/en/guide/' },
+          { text: 'Yo Antd Pro', link: '/en/antd-pro/' },
+          { text: 'Element Admin', link: '/en/element-admin/' },
+          { text: 'Form Builder', link: '/en/element-form-builder/' },
+          { text: 'Egg Token', link: '/en/egg-token/' },
           { text: 'GOT Auth', link: '/en/gotauth/' },
-          { text: 'Wishtodo', link: '/en/wishtodo/' }
+          {
+            text: 'More',
+            items: [{ text: 'Wishtodo', link: '/en/wishtodo/' }]
+          }
         ],
         sidebar: {
           // '/en/gotauth/': getGotAuthSidebar('Introduction', 'Action'),
@@ -106,4 +120,4 @@ module.exports = {
     ['@vuepress/medium-zoom', true],
     ['@vuepress/notification', true]
   ]
-};
+}
