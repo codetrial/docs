@@ -51,7 +51,7 @@
 }
 ```
 
-### POST /api/resource/:id
+### POST /api/resource
 
 描述：创建资源。
 

@@ -47,7 +47,7 @@
 }
 ```
 
-### POST /api/app/:id
+### POST /api/app
 
 描述：创建应用方。
 

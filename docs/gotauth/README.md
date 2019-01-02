@@ -4,6 +4,10 @@ GOT Auth 是一个为专后台系统打造的从粗力度到细粒度完整鉴�
 
 为什么叫 GOT，喜欢冰火的同学肯定知道。Wiki：[冰与火之歌 —— 权力的游戏（A Song of Ice and Fire - Game of Thrones）](https://en.wikipedia.org/wiki/Game_of_Thrones)
 
+在线尝试：
+
+[gotauth-api.felixpy.com](https://gotauth-api.felixpy.com)
+
 仓库地址：
 
 - Service [codetrial/got-auth-service](https://github.com/codetrial/got-auth-service)
