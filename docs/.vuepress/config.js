@@ -118,6 +118,12 @@ module.exports = {
     ['@vuepress/active-header-links', true],
     ['@vuepress/pagination', true],
     ['@vuepress/medium-zoom', true],
-    ['@vuepress/notification', true]
+    ['@vuepress/notification', true],
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'UA-131733254-1'
+      }
+    ]
   ]
 }
