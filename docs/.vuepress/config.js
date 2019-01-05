@@ -61,12 +61,14 @@ module.exports = {
           { text: '指南', link: '/guide/' },
           { text: 'Yo Antd Pro', link: '/antd-pro/' },
           { text: 'Element Admin', link: '/element-admin/' },
-          { text: 'Form Builder', link: '/element-form-builder/' },
-          { text: 'Egg Token', link: '/egg-token/' },
           { text: 'GOT Auth', link: '/gotauth/' },
+          { text: 'Wishtodo', link: '/wishtodo/' },
           {
             text: '更多',
-            items: [{ text: 'Wishtodo', link: '/wishtodo/' }]
+            items: [
+              { text: 'Form Builder', link: '/element-form-builder/' },
+              { text: 'Egg Token', link: '/egg-token/' }
+            ]
           }
         ],
         sidebar: {
@@ -83,12 +85,14 @@ module.exports = {
           { text: 'Guide', link: '/en/guide/' },
           { text: 'Yo Antd Pro', link: '/en/antd-pro/' },
           { text: 'Element Admin', link: '/en/element-admin/' },
-          { text: 'Form Builder', link: '/en/element-form-builder/' },
-          { text: 'Egg Token', link: '/en/egg-token/' },
           { text: 'GOT Auth', link: '/en/gotauth/' },
+          { text: 'Wishtodo', link: '/en/wishtodo/' },
           {
             text: 'More',
-            items: [{ text: 'Wishtodo', link: '/en/wishtodo/' }]
+            items: [
+              { text: 'Form Builder', link: '/en/element-form-builder/' },
+              { text: 'Egg Token', link: '/en/egg-token/' }
+            ]
           }
         ],
         sidebar: {
