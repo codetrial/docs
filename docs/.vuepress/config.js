@@ -27,7 +27,7 @@ function getWishTodoSidebar(groupA) {
     {
       title: groupA,
       collapsable: false,
-      children: ['']
+      children: ['', 'api', 'graphql']
     }
   ]
 }
