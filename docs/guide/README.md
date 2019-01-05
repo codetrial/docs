@@ -1,8 +1,8 @@
-# Codetrial
+# 项目概览
 
 Web 相关主流技术开发实战。
 
-## Utilities
+## 工具
 
 ### :art: Generator Antd Pro
 
@@ -28,7 +28,7 @@ Web 相关主流技术开发实战。
 
 [:book: 参考文档](/egg-token/)
 
-## Applications
+## 应用
 
 ### :lock: GOT Auth
 

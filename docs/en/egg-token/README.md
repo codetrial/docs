@@ -1,3 +1,3 @@
-# Egg.js Token Middleware
+# Egg.js Token Plugin
 
 English Site.
