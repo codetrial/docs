@@ -103,7 +103,7 @@ module.exports = {
     [
       '@vuepress/search',
       {
-        searchMaxSuggestions: 10
+        searchMaxSuggestions: 5
       }
     ],
     ['@vuepress/i18n-ui', true],
