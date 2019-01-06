@@ -1,6 +1,6 @@
 # 功能简介
 
-Wishtodo 是一个基于 JHipster 和 Spring 的简单微服务，实现了一个经典的 TODO 应用。
+Wishtodo 是一个基于 JHipster 和 Spring 的微服务，实现了一个简单的 TODO 应用，同时支持 GraphQL 和 Restful 接口。
 
 在线预览：
 
