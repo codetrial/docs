@@ -6,7 +6,7 @@ Wishtodo 是一个基于 JHipster 和 Spring 的微服务，实现了一个简�
 
 - 接口服务 - [Wishtodo Spring Service](https://codetrial-gateway.felixpy.com/wishtodo/api/todos)
 
-![Screen Capture](/preview/wish-todo-service.gif)
+![Screen Capture](https://user-images.githubusercontent.com/2902215/50770013-c0d95480-12c0-11e9-98dd-2cfde968f95b.gif)
 
 仓库地址：
 

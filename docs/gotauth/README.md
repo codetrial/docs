@@ -8,11 +8,11 @@ GOT Auth 是一个专为企业级后台系统打造的基于资源的完整鉴�
 
 - 管理系统 - [Got Auth Admin](https://got-auth-admin.netlify.com/)
 
-![Screen Capture](/preview/got-auth-admin.png)
+![Screen Capture](https://user-images.githubusercontent.com/2902215/50769983-adc68480-12c0-11e9-896e-22e044ded599.png)
 
 - 接口服务 - [Got Auth Service](https://gotauth-api.felixpy.com)
 
-![Screen Capture](/preview/got-auth-service.gif)
+![Screen Capture](https://user-images.githubusercontent.com/2902215/50770005-bc14a080-12c0-11e9-8a8d-fabb2077eb11.gif)
 
 仓库地址：
 

@@ -6,7 +6,7 @@
 
 - [Element Admin](https://element-admin.now.sh)
 
-![Screen Capture](/preview/element-admin.gif)
+![Screen Capture](https://user-images.githubusercontent.com/2902215/50769953-8cfe2f00-12c0-11e9-8c51-22f9629a8f24.gif)
 
 仓库地址：
 

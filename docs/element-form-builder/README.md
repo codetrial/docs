@@ -6,7 +6,7 @@
 
 - [Form Builder](https://element-form-builder.now.sh)
 
-![Screen Capture](/preview/element-form-builder.gif)
+![Screen Capture](https://user-images.githubusercontent.com/2902215/50769967-9a1b1e00-12c0-11e9-861f-3cda91c3518c.gif)
 
 仓库地址：
 

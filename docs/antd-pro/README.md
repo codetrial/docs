@@ -6,7 +6,7 @@
 
 - 简单模板 - [Yo Antd Pro](https://generator-antd-pro.netlify.com)
 
-![Screen Capture](/preview/antd-pro.gif)
+![Screen Capture](https://user-images.githubusercontent.com/2902215/50769859-3ee92b80-12c0-11e9-85be-f94b3980502d.gif)
 
 仓库地址：
 
