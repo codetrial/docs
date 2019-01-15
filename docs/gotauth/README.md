@@ -1,6 +1,6 @@
 # 功能简介
 
-GOT Auth 是一个专为企业级后台系统打造的基于资源的完整鉴权系统。既可以用于后台 URI 访问权限，也可以用于控制前端页面展现。
+GOT Auth 是一个专为企业级后台管理系统打造的基于角色的专业鉴权服务（也支持资源和分组）。既可以用于后台 URI 访问权限，也可以用于控制前端页面展现。
 
 为什么叫 GOT，喜欢冰火的同学肯定知道。Wiki：[冰与火之歌 —— 权力的游戏（A Song of Ice and Fire - Game of Thrones）](https://en.wikipedia.org/wiki/Game_of_Thrones)
 
