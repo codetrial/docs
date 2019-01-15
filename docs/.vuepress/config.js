@@ -49,7 +49,9 @@ module.exports = {
   },
 
   themeConfig: {
-    repo: 'codetrial/docs',
+    repo: 'codetrial',
+    docsRepo: 'codetrial/docs',
+    docsDir: 'docs',
     editLinks: true,
     locales: {
       '/': {
