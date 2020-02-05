@@ -2,13 +2,7 @@
 
 GOT Auth 是一个专为企业级后台管理系统打造的基于角色的专业鉴权服务（也支持资源和分组）。既可以用于后台 URI 访问权限，也可以用于控制前端页面展现。
 
-为什么叫 GOT，喜欢冰火的同学肯定知道。Wiki：[冰与火之歌 —— 权力的游戏（A Song of Ice and Fire - Game of Thrones）](https://en.wikipedia.org/wiki/Game_of_Thrones)
-
 在线预览：
-
-- 管理系统 - [Got Auth Admin](https://got-auth-admin.netlify.com/)
-
-![Screen Capture](https://user-images.githubusercontent.com/2902215/50769983-adc68480-12c0-11e9-896e-22e044ded599.png)
 
 - 接口服务 - [Got Auth Service](https://gotauth-api.felixpy.com)
 
@@ -16,15 +10,7 @@ GOT Auth 是一个专为企业级后台管理系统打造的基于角色的专�
 
 仓库地址：
 
-- Admin - [codetrial/got-auth-admin](https://github.com/codetrial/got-auth-admin)
 - Service - [codetrial/got-auth-service](https://github.com/codetrial/got-auth-service)
-
-前端主要技术：
-
-- ES6
-- React
-- Ant Design
-- [Generator Antd Pro](https://github.com/codetrial/generator-antd-pro)
 
 后端主要技术：
 
@@ -32,7 +18,6 @@ GOT Auth 是一个专为企业级后台管理系统打造的基于角色的专�
 - Egg.js
 - MySQL
 - GraphQL
-- [Egg Token](https://github.com/codetrial/egg-token)
 
 ## 系统划分
 
